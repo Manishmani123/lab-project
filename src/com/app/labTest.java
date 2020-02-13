@@ -41,6 +41,7 @@ public class labTest {
 		om.a=10;
 		om.b=10;
 		System.out.println(om);
+		System.out.println("Java World");
 		
 		
 	}
